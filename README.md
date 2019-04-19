@@ -31,3 +31,4 @@ raw未加工
 blame过失
 Commit directly to the master branch.直接提交主分支
 Create a new branch for this commit and start a pull request. Learn more about pull requests.为此提交创建一个新的分支，并启动一个退出请求。了解更多关于拉请求。
+gists要点
