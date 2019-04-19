@@ -2,11 +2,11 @@
 goodgoodstud
 git的一些名词
 code编码
-repository (仓库)
-star(收藏)
-Fork(分叉,可以理解为复制克隆项目,创建副本,fork的项目独立存在的)
-pull request(发送请求)请求修改
-watch(关注,监听)
+repository 仓库
+star收藏
+Fork(分叉,克隆项目,创建副本,fork的项目独立存在的
+pull request发送请求请求修改
+watch(关注,监听
 follow(跟随,关注)
 issue发表
 description(描述)
