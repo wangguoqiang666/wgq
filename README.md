@@ -18,9 +18,5 @@ automatically merge(自动合并)
 insight(洞察,分析)
 reaction(反应)
 github主页
-仓库主页
-个人主页
---------------------- 
-作者：白菜喵 
-来源：CSDN 
-原文：https://blog.csdn.net/eebaicai/article/details/82983858 
+wiki 多人协作的写作系统
+insights见解
