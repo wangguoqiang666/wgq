@@ -1,13 +1,14 @@
 # wgq
 goodgoodstud
 git的一些名词
+code编码
 repository (仓库)
 star(收藏)
 Fork(分叉,可以理解为复制克隆项目,创建副本,fork的项目独立存在的)
-pull request(发送请求)
+pull request(发送请求)请求修改
 watch(关注,监听)
 follow(跟随,关注)
-issue(事务卡片)
+issue发表
 description(描述)
 public(公共的)
 private(私有的)
@@ -20,3 +21,9 @@ reaction(反应)
 github主页
 wiki 多人协作的写作系统
 insights见解
+marketplace市场 商场
+slpaces 空间，控制室
+soft wrap软件包
+explore搜索
+edit file编辑文件
+preview changes预览更改
